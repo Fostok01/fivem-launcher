@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "2.0.0",
     "download_url": "https://github.com/Fostok01/fivem-launcher/releases/latest",
     "release_notes": "- Added automatic update checking\n- Improved server status monitoring\n- Fixed connection issues\n- Enhanced user interface"
 }
